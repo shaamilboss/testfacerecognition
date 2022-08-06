@@ -1,0 +1,14 @@
+{
+  "name": "face_recognition",
+  "version": "1.0.0",
+  "description": "face recognition attendance",
+  "main": "face_recognition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaamil",
+  "license": "ISC",
+  "dependencies": {
+    "dlib": "^0.0.99"
+  }
+}
